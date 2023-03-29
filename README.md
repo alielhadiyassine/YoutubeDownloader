@@ -8,3 +8,4 @@ Go to this folder and make a shortcut of the YoutubeDownloader.exe to the deskto
 
 Open it and enjoy!!
 
+You can download single video or complete playlist 
